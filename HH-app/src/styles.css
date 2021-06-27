@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { 
+    height: 100%;
+    background-image: url('https://www.unilever.co.za/Images/ZAF-uflp-990x557_tcm1262-555268_w940.jpg');
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
