@@ -1,0 +1,40 @@
+
+.mat-form-field {
+    display: block;
+    width: 100%;
+    min-width: 300px;
+}
+
+mat-card-title,
+mat-card-content {
+  display: flex;
+  justify-content: center;
+  background-color:"purple";
+
+}
+
+:host {
+    display: flex;
+    justify-content: center;
+    margin: 100px 0px;
+}
+
+.button {
+    display: flex;
+    justify-content: flex-end;
+}
+
+mat-card {
+    max-width: 400px;
+    margin: 2em auto;
+    text-align: center;
+}
+
+.mattoolbarClas{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: "primary";
+    
+    width: 100%;
+}
